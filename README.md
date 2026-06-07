@@ -32,11 +32,18 @@ Materiais de aula do professor Berg Dantas.
     </tr>
 </table>
 
+## Competências:
+
+### Segundo bimestre
+<ul>
+    <li>Compreender o conceito de trabalho em suas dimensões econômica, social e humana, reconhecendo sua centralidade na organização das sociedades ao longo do tempo.</li>
+    <li>Analisar a evolução histórica do trabalho e dos sistemas de produção, identificando as principais transformações desde as sociedades pré-industriais até o capitalismo contemporâneo.</li>
+    <li>Identificar e refletir sobre as metamorfoses do trabalho, compreendendo como as mudanças tecnológicas, econômicas e culturais reconfiguram as formas de produção e as relações laborais.</li>
+    <li>Reconhecer as especificidades da história do trabalho e do sistema de produção brasileiro, considerando aspectos como escravidão, industrialização tardia, informalidade e desigualdades estruturais.</li>
+    <li>Relacionar as relações de trabalho com as questões ambientais, compreendendo os impactos dos modelos produtivos sobre o meio ambiente e a importância de práticas sustentáveis no mundo do trabalho.</li>
+
 ## Referências
-CARVALHO, Flávia Pereira de. Apostila de lógica de programação: algoritmos. Disponível em:
-<https://fit.faccat.br/~fpereira/apostilas/apostila_algoritmos_mar2007.pdf>. Acesso em: 6 nov. 2025.
 
-SOUSA, João Nunes de. Lógica para ciência da computação: uma introdução concisa. 2ª ed. Rio de Janeiro: Elsevier, 2008.
+SANTOS, Luciano dos. Sociologia do Trabalho. Goiás: IFGO. 2012
 
-## Outros materiais úteis
-<p><a href="https://mundi.ifsul.edu.br/portal/introducao-a-logica-de-programacao.php">Curso de lógica de programação do IFSul</a></p>
+SANCHES, Wilson. Sociologia do Trabalho. Londrina: ed. e Distribuidora Educacional SA.2018.
